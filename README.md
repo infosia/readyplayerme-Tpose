@@ -1,5 +1,8 @@
 # T-pose Ready Player Me full-body glTF binary (.glb)
 
+**This project has been archived and is no longer maintained**
+**Check out [avatar-asset-pipeline](https://github.com/infosia/avatar-asset-pipeline) for equivalent feature** 
+
 ## Background
 
 The avatar you can create from [Ready Player Me full-body avatar demo](https://fullbody.readyplayer.me/) glTF binary (.glb) defaults to A-pose. 
